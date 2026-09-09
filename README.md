@@ -25,7 +25,7 @@ Installation
 
 1. Repository klonen
 
-git clone https://github.com/DEIN-NAME/bild-zu-video.git
+git clone https://github.com/Plutoburrito252/bild-zu-video.git
 cd bild-zu-video
 
 2. Virtuelle Umgebung erstellen
