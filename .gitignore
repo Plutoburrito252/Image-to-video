@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+input/*
+output/*
+
+models/
+*.safetensors
+*.ckpt
+*.pth
+
+.DS_Store
